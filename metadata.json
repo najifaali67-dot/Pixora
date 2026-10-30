@@ -1,0 +1,6 @@
+{
+  "name": "Pixora - All-in-One Image Tools & AI Studio",
+  "description": "Everything you need to create, crop, resize, compress, convert, and generate AI images with professional tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
